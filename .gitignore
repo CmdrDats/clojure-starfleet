@@ -9,3 +9,4 @@ pom.xml.asc
 /.nrepl-port
 clojure_starfleet.iml
 .idea
+figwheel_server.log
